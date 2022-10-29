@@ -5,7 +5,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://milankatira.netlify.app/](https://milankatira.netlify.app/) -->
 
-- 📫 How to reach me **milankatira26@gmail.com**
+<!-- - 📫 How to reach me **milankatira26@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
