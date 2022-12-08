@@ -18,6 +18,6 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@milankatira26/context-api-in-react-e53e4e41295e"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@milankatira26/context-api-in-react-e53e4e41295e" alt="Recent article #1"></a>
 
- <a target="_blank" href="https://github.com/milankatia.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github.com/milankatia.vercel.app/medium/@milankatira26/context-api-in-react-e53e4e41295e"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@milankatira26/context-api-in-react-e53e4e41295e" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
