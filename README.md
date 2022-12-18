@@ -24,9 +24,7 @@
 <h3>Blockchain technology</h3>
 - Solidity, web3js, Binance smart chain (BSC), Hashgraph
 
-Database - MongoDB, PostgreSQL, Graphql
-Framework - Bootstrap, Material UI, Tailwind CSS
-Others - Docker, Remix, Git, Github, Gitlab, JIRA
-
+<h3>Database</h3>
+- MongoDB, PostgreSQL, Graphql
 
 ![Milankatira's blog](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=milankatira26&limit=6&theme=dark)
