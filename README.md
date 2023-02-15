@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack/full stack development**
 
-- 👨‍💻 All of my projects are available at [https://milankatira.netlify.app/](https://milankatira.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://milankatira.vercel.app/)
 
 - 📫 How to reach me **milankatira26@gmail.com**
 
