@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/milan-katira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan katira" height="30" width="40" /></a>
 </p>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milankatira&show_icons=true&locale=en" alt="milankatira" /></p>
@@ -36,5 +36,7 @@
 - MongoDB, PostgreSQL, Graphql
 
 <h3 align="left">Blog</h3>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="milan-katira" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/milan-katira?trk=profile-badge">Milan Katira</a></div>
+              
+              
 ![Milankatira's blog](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=milankatira26&limit=6&theme=dark)
