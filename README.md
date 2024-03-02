@@ -1,7 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milankatira&label=Profile%20views&color=EE4B2B&style=flat" alt="milankatira" /> </p>
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Milan katira</h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
@@ -39,16 +41,21 @@
 - MongoDB, PostgreSQL, Graphql
 
 ## 👨‍💻 Github Stats  
-<table><tr><td valign="center" width="50%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milankatira&show_icons=true&theme=dark&locale=en" alt="milankatira" /></p>
+<div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=milankatira&theme=dark&background=000000)](https://git.io/streak-stats)
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=milankatira&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milankatira&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milankatira&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milankatira&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milankatira&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=milankatira&theme=dark"/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milankatira&layout=compact&theme=vision-friendly-dark)
 
-</td></tr></table>  
+
 
 <br/>  
 
@@ -58,5 +65,7 @@
 
 
 ![Milankatira's blog](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=milankatira26&limit=6&theme=dark)
+
+
 
 </td></tr></table>
