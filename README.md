@@ -15,7 +15,7 @@
 - Full Stack Development with MERN Stack
 
 ### 💼 Portfolio
-- [milankatira.vercel.app](https://milankatira.vercel.app/)
+- [Milan Katira Portfolio](https://www.milankatira.com/)
 
 ### 📫 Reach Me At
 - **Email**: milankatira26@gmail.com  
